@@ -3,9 +3,9 @@ div.about p:first-child {
   font-family: cursive;
   font-weight: bolder;
 }
-
+/*code is changed by coding with shibaan  */
 div.about p:last-child {
-  color: yellowgreen;
+  color: purplr;
   font-weight: 500;
 }
 
